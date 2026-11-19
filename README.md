@@ -1,3 +1,4 @@
+<img width="192" height="192" alt="1000016604" src="https://github.com/user-attachments/assets/f1436dbd-1746-42a6-9eb7-3852ced5d334" />
 # LRStudy
 
 本地优先的错题整理与复习工具。网页版可直接使用，Android 提供 APK。
