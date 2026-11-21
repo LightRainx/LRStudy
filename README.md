@@ -1,13 +1,12 @@
 <img width="1600" height="640" alt="banner" src="https://github.com/user-attachments/assets/d672a1aa-8c7a-4f36-88a7-45b51038d27b" />
 
 [![](https://img.shields.io/badge/powered_by-dsh-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)](https://github.com/deepseek-ai/deepseek-harness) [![](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/lrstudy) ![Sync](https://img.shields.io/badge/sync-WebDAV%20%7C%20P2P-111111?style=flat-square)
-
-本地优先的错题整理工具。网页版可直接使用，Android 提供 APK。
+> **一个错题整理工具，让你的学习井井有条**
 
 在线体验：https://lightrainx.github.io/LRStudy-web  
 作者主页：https://github.com/LightRainx
 
-## 功能
+# 功能
 
 - 拍照或相册导入错题，自动框题，也可手动补框
 - 可选本地 OCR（RapidOCR / ONNX Runtime），识别印刷题目文字
@@ -46,6 +45,6 @@ iOS 使用 Safari 网页版；打印走 PDF 分享/文件路径，不能作为�
 - Android 原生打印和内网同步尚未在所有机型上验证
 ---------------
 须知：
-代码基本为AI所写，本人没有能力和精力创作一个App
+代码基本为AI所写，本人中学生没有能力和精力创作一个App
 该软件本意是公开共享，如有触及法律或侵权请告知！
 
