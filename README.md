@@ -1,6 +1,6 @@
 <img width="1600" height="640" alt="banner" src="https://github.com/user-attachments/assets/d672a1aa-8c7a-4f36-88a7-45b51038d27b" />
 
-[![](https://img.shields.io/badge/powered_by-dsh-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)](https://github.com/deepseek-ai/deepseek-harness) [![](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/+aWIsicFcphBiNTI1) ![Sync](https://img.shields.io/badge/sync-WebDAV%20%7C%20P2P-111111?style=flat-square)
+[![](https://img.shields.io/badge/powered_by-dsh-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)](https://github.com/deepseek-ai/deepseek-harness) [![](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/lrstudy) ![Sync](https://img.shields.io/badge/sync-WebDAV%20%7C%20P2P-111111?style=flat-square)
 
 本地优先的错题整理工具。网页版可直接使用，Android 提供 APK。
 
